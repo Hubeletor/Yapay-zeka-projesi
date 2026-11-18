@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Karar Ağacı,0.9298,0.9048,0.9048,0.9048,0.9246
+Random Forest,0.9649,1.0,0.9048,0.95,0.9942
+XGBoost,0.9737,1.0,0.9286,0.963,0.9921
